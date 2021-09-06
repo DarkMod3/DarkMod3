@@ -4,6 +4,8 @@
 - Tenho um Bot de Discord
 - Eu sou Coder de Batch
 
+##
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMode-Coder&show_icons=true&theme=github_dark&count_private=true)
 
 ## Linguagens que eu uso normalmente
