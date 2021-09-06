@@ -1,6 +1,6 @@
 ## Olá eu sou DarkMode seja Bem-Vindo ao meu perfil!
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMode-Coder&show_icons=true&theme=light&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMode-Coder&show_icons=true&theme=github_dark&count_private=true)
 
 ## Linguagens que eu uso normalmente
 
