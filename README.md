@@ -7,7 +7,7 @@
 - Eu sou Coder de Batch
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-5/596914391413293056.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/596914391413293056.png"/>
 </p>
  
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMode-Coder&show_icons=true&theme=github_dark&count_private=true)
