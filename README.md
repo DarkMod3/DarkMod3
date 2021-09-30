@@ -6,6 +6,9 @@
 - Tenho um Bot de Discord
 - Eu sou Coder de Batch
 
+
+
+
 <p align="inline">
     <img src="https://discord.c99.nl/widget/theme-4/596914391413293056.png"/>
 </p>
