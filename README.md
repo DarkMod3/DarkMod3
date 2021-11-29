@@ -2,7 +2,7 @@
 
  
  
-- Sou brasileiro e tenho 15 anos
+- Sou brasileiro e tenho 15 "anos"
 - Tenho um Bot de Discord
 - Eu sou Coder de Batch
 
