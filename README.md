@@ -2,7 +2,7 @@
 
 ﾠ
 
-- Sou brasileiro:flag_br: e tenho 16 anos.
+- Sou brasileiro, tenho 16 anos.
 - Tenho um bot de discord multifunções.
 - Batch Scripts.
 
