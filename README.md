@@ -1,4 +1,4 @@
-## Olá sou DarkMode, seja Bem-Vindo ao meu perfil!
+## ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠOlá sou DarkMode, seja Bem-Vindo ao meu perfil!ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
 
 
 
@@ -6,7 +6,7 @@
     <img src="https://discord.c99.nl/widget/theme-4/596914391413293056.png"/>
 </p>
  
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMode-Coder&show_icons=true&theme=github_dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=midnight-purple&show_icons=true)
 
 ##
 
