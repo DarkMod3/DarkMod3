@@ -1,12 +1,5 @@
 ## Olá sou DarkMode, seja Bem-Vindo ao meu perfil!
 
- 
- 
-- Sou brasileiro e tenho 15 anos
-- Tenho um Bot de Discord
-- Eu sou Coder de Batch
-
-
 
 
 <p align="inline">
