@@ -1,6 +1,12 @@
-## ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ🌑 Olá sou DarkMode, seja Bem-Vindo ao meu perfil! 🌑ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
+<h1 align="center">🌑 Olá sou DarkMode, seja Bem-Vindo ao meu perfil! 🌑</h1>
 
+ﾠ
 
+- Sou brasileiro e tenho 16 anos.
+- Tenho um bot de discord multifunções.
+- Batch Scripts.
+
+ﾠ
 
 <p align="inline">
     <img src="https://discord.c99.nl/widget/theme-4/596914391413293056.png"/>
