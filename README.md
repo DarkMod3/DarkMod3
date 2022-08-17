@@ -2,9 +2,9 @@
 
 ﾠ
 
-- Sou brasileiro, tenho 16 anos.
-- Tenho um bot de discord multifunções.
-- Batch Scripts.
+- Sou Brasileiro, tenho 16 anos
+- Tenho um bot de discord multifunções
+- Batch Scripts
 
 ﾠ
 
