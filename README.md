@@ -10,8 +10,18 @@
 Eae beleza? Sou DarkMode um Desenvolvedor Brasileiro de 16 anos, Uso bastante a linguagem Batch Script e PowerShell.
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0DarkMode0&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/0DarkMode0">
+    <img align="center"
+         height="200em"
+         src="https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=midnight-purple&show_icons=true" />
+  </a>
+    
+  <a href="https://github.com/0DarkMode0">
+    <img align="center"
+         height="200em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DarkMode0&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
 
 ## 💻┃Linguagens
 
@@ -21,9 +31,3 @@ Eae beleza? Sou DarkMode um Desenvolvedor Brasileiro de 16 anos, Uso bastante a 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 </div><br/>
-
-## 📌┃Outros
-
-<div style="display: inline_block">
-  <a href="https://github.com/0DarkMode0/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/Dark-Mode" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
