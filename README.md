@@ -7,7 +7,7 @@
 </a>
 
 ```
-Eae beleza? Sou DarkMode um Desenvolvedor Brasileiro de 16 anos, Uso bastante a linguagem Batch Script e PowerShell.
+Eae beleza? Sou DarkMode um Desenvolvedor Brasileiro de 16 anos, Uso bastante a linguagem Batch Script e PowerShell
 ```
 
 <p align="center">
