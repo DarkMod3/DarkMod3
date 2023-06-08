@@ -1,33 +1,66 @@
-<h1 align="center">🌑 Olá sou DarkMode, seja Bem-Vindo ao meu perfil! 🌑</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-<a href="https://0darkmode0.github.io/">
-    <h3 align="center">
-        <img src="https://cdn.discordapp.com/attachments/1010784013490847755/1028961463844470814/DarkMode.png" width="780"><br>
-    </h3>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+DarkMode.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 
-```
-Eae beleza? Sou DarkMode um Desenvolvedor Brasileiro de 16 anos, Uso bastante a linguagem Batch Script e PowerShell
-```
+</br>
 
 <p align="center">
-  <a href="https://github.com/0DarkMode0">
-    <img align="center"
-         height="200em"
-         src="https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=midnight-purple&show_icons=true" />
-  </a>
-    
-  <a href="https://github.com/0DarkMode0">
-    <img align="center"
-         height="200em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DarkMode0&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-  </a>
+<a href="https://www.instagram.com/vini.mendes00"><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/oaQcK89.png"/></a>
+&#8287;&#8287;
+<a href="https://discord.gg/tAQSJ5EYNW"><img width="44px" alt="Discord" title="Discord" src="https://i.imgur.com/lToTI0c.png"/></a>
+&#8287;&#8287;
+<a href="https://steamcommunity.com/id/Dark-Mode"><img width="43px" alt="Steam" title="Steam" src="https://i.imgur.com/JYfEBz5.png"/></a>
+</p>
 
-## 💻┃Linguagens
+<details>
+<summary>Sobre mim</summary>
 
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-</div><br/>
+- 🌑 Sou DarkMode, um programador iniciante que explora diversas linguagens, especialmente Batch Script e PowerShell.
+
+- 📍 Sou do Brasil e moro no interior de São Paulo.
+
+- 💻 Amo usar Hardware Hacking, principalmente o ESP8266.
+
+- 👨‍💻 Já criei um bot para Discord, mas descontinuei o projeto.
+
+- 🎉 Gosto de ajudar as pessoas com computadores mais fracos, otimizando-os.
+
+- 💬 Tenho uma comunidade no Discord focada em otimização de computadores.
+
+</details>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+## 🔥 Github Status
+
+<img align="right" width="38%" src="https://i.imgur.com/1aYhx7Q.jpg"/>
+<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=github_dark&locale=pt-BR&title_color=ff3068?"></a>
+<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=0DarkMode0&theme=github-dark-blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D"></a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p align="right"><b>Contador de Visitantes    </b></p>  
+<img align="right" src="https://profile-counter.glitch.me/{0DarkMode0}/count.svg" />
+
+</br>
+</br>
+
+<p align="right">
+  <a href="https://github.com/0DarkMode0?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2F0DarkMode0"/></a>
+  <a href="https://github.com/0DarkMode0?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0DarkMode0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
