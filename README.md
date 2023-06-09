@@ -17,8 +17,13 @@
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
-## 🔥 Github Status
+<h2 align="center">🌑 Github Status 🌑</h2>
+
+</br>
 
 <a href="https://github.com/0DarkMode0"><img align="right" width="45%" src="https://i.imgur.com/VNgEBRu.png"></a>
 <a href="https://github.com/0DarkMode0"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=github_dark&locale=pt-BR&title_color=ff3068?"></a>
