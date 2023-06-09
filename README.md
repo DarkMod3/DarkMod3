@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<a href="https://github.com/0DarkMode0"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+DarkMode.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 ## 🔥 Github Status
 
-<img align="right" width="45%" src="https://i.imgur.com/VNgEBRu.png"/>
+<a href="https://github.com/0DarkMode0"><img align="right" width="45%" src="https://i.imgur.com/VNgEBRu.png"></a>
 <a href="https://github.com/0DarkMode0"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=0DarkMode0&theme=github_dark&locale=pt-BR&title_color=ff3068?"></a>
 <a href="https://github.com/0DarkMode0"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=0DarkMode0&theme=github-dark-blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D"></a>
 
