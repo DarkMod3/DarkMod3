@@ -7,8 +7,6 @@
 <p align="center">
 <a href="https://0darkmode0.github.io"><img width="43px" alt="Website" title="Website" src="https://i.imgur.com/UkhMqtz.png"/></a>
 &#8287;&#8287;
-<a href="https://www.instagram.com/vini.mendes00"><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/oaQcK89.png"/></a>
-&#8287;&#8287;
 <a href="https://discord.gg/tAQSJ5EYNW"><img width="44px" alt="Discord" title="Discord" src="https://i.imgur.com/lToTI0c.png"/></a>
 &#8287;&#8287;
 <a href="https://steamcommunity.com/id/Dark-Mode"><img width="43px" alt="Steam" title="Steam" src="https://i.imgur.com/JYfEBz5.png"/></a>
