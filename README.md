@@ -1,6 +1,6 @@
 <a href="https://github.com/DarkMod3"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+DarkMode.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+DarkMode.;Seja+bem-vindo(a)+ao+meu+perfil.)
 
 </br>
 
@@ -21,10 +21,11 @@
 </br>
 </br>
 
-<h2 align="center">🌑 Github Status 🌑</h2>
+<p align="center"><b>Github Status</b></p>
 
-| ![](https://readme-typing-svg.demolab.com?font=Quicksand&weight=800&size=45&duration=1000&pause=1000&color=FFFFFF&multiline=true&repeat=false&random=false&width=1000&height=500&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A;%E2%80%80;%E2%AD%90+%7C+NightBox;%E2%AD%90+%7C+Guia+Anonima+BR) | ![](https://github-readme-stats.vercel.app/api?username=DarkMod3&show_icons=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550) ![](https://streak-stats.demolab.com/?user=DarkMod3&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550) |
+| ![](https://readme-typing-svg.demolab.com?font=Quicksand&weight=800&size=45&duration=1000&pause=1000&color=FFFFFF&multiline=true&repeat=false&random=false&width=1000&height=500&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A;%E2%80%80;%E2%AD%90+%7C+NightBox;%E2%AD%90+%7C+Guia+Anonima+BR) | ![](https://github-readme-stats.vercel.app/api?username=DarkMod3&show_icons=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550) ![](https://streak-stats.demolab.com/?user=DarkMod3&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550)
 |--|--|
+| <a href="https://github.com/DarkMod3/NightBox"><p align="center">![](https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=NightBox&theme=github_dark&border_color=30363d)</p></a> | <a href="https://github.com/DarkMod3/GuiaAnonimaBR"><p align="center">![](https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=GuiaAnonimaBR&theme=github_dark&border_color=30363d)</p></a>
 
 </br>
 </br>
