@@ -23,6 +23,9 @@
 
 <h2 align="center">🌑 Github Status 🌑</h2>
 
+| ![](https://readme-typing-svg.demolab.com?font=Quicksand&weight=800&size=45&duration=1000&pause=1000&color=FFFFFF&multiline=true&repeat=false&random=false&width=1000&height=500&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A;%E2%80%80;%E2%AD%90+%7C+NightBox;%E2%AD%90+%7C+Guia+Anonima+BR) | ![](https://github-readme-stats.vercel.app/api?username=DarkMod3&show_icons=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550) ![](https://streak-stats.demolab.com/?user=DarkMod3&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550) |
+|--|--|
+
 </br>
 </br>
 </br>
@@ -30,7 +33,7 @@
 
 <div align="center">
 <p align="center"><b>Contador de Visitantes</b></p>  
-<img align="center" src="https://profile-counter.glitch.me/{DarkMod3}/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/DarkMod3/count.svg" />
 </div>
 
 </br>
