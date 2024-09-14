@@ -21,7 +21,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/f7oXGmk.png" width="190"/> 
+<img align="left" src="https://i.imgur.com/f7oXGmk.png" width="185"/> 
 
 
 ```lua
