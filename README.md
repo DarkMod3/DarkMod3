@@ -23,19 +23,17 @@
 
 <img align="left" src="https://i.imgur.com/f7oXGmk.png" width="268"/> 
 
-```bash
+
+```lua
 DarkMode@GitHub
--------------------------
+▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
 Pronomes: Ele/Dele
 Location: Brasil, SP
 Linguagens: Nenhuma
 Aprendendo: JavaScript, HTML, Python
-Hobbies: Jogar, Dormir, Programar
-Commits: 254
-Stars: 10
-Discord: <\DarkMode>#010101
+Hobbies: Cheating in Games, Sleep, Programming
 ```
 
 <br><br><br>
