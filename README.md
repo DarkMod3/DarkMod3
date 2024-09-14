@@ -26,7 +26,7 @@
 
 ```lua
 DarkMode@GitHub
-▔▔▔▔▔
+▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
 Pronomes: Ele/Dele
