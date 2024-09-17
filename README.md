@@ -36,7 +36,11 @@ Aprendendo: JavaScript, HTML, Python
 Hobbies: Cheating in Games, Sleep, Programming
 ```
 
-<br><br><br>
+<br><br>
+
+---
+
+<br><br>
 
 <p align="center"><strong>GitHub Status</strong></p>
 
