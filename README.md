@@ -29,10 +29,10 @@ DarkMode@GitHub
 ▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
-Pronomes: Ele/Dele
+Pronouns: Ele/Dele
 Location: Brasil, SP
-Linguagens: Nenhuma
-Aprendendo: JavaScript, HTML, Python
+Learning: JavaScript, HTML, Python
+Languages: Nenhuma
 Hobbies: Cheating in Games, Sleep, Programming
 ```
 
@@ -44,7 +44,7 @@ Hobbies: Cheating in Games, Sleep, Programming
 
 <p align="center"><strong>GitHub Status</strong></p>
 
-| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/DarkMod3/NightBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=NightBox&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/DarkMod3/GuiaAnonimaBR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=GuiaAnonimaBR&theme=github_dark&border_color=30363f&border_radius=0"/></a></p> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DarkMod3&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=DarkMod3&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
+| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/DarkMod3/NightBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=NightBox&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkMod3&repo=CMSP-Plataformas-Hacks&theme=github_dark&border_color=30363f&border_radius=0"/></a></p> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DarkMod3&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=DarkMod3&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
 |--|--|
 
 <br>
