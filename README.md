@@ -32,7 +32,7 @@ Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
 Learning: JavaScript, HTML, Python
-Languages: Nenhuma
+Languages: None
 Hobbies: Cheating in Games, Sleep, Programming
 ```
 
